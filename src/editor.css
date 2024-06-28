@@ -1,0 +1,34 @@
+.window {
+    position: relative;
+    align-items: center;
+    margin: 30px;
+    border-radius: 6px;
+    background-color: #232121;
+    color: #ffffff;
+    left: 15%;
+    width: calc(70% - 35px);
+    overflow: hidden;
+    border-style: solid;
+    border-color: rgb(254, 254, 254);
+  }
+  
+.Heading {
+    color: white;
+    text-align: center;
+}
+
+.Heading1{
+    text-align: center;
+    color: white;
+}
+
+  .editor_wrap {
+    height: calc(100% - 60px);
+    overflow-y: auto;
+    padding: 10px;
+  }
+  
+  .editor_wrap textarea {
+    outline: none;
+  }
+  
